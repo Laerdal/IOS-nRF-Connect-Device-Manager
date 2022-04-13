@@ -17,7 +17,7 @@
                BlueprintIdentifier = "13C31EBA37B27CC447C2782137411552"
                BuildableName = "McuManager.framework"
                BlueprintName = "McuManager"
-               ReferencedContainer = "container:Pods/Pods.xcodeproj">
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
