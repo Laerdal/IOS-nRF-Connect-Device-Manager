@@ -4,6 +4,3 @@ use_frameworks!
 target 'nRF Connect Device Manager' do
   pod 'McuManager', :path => '../'
 end
-
-install! 'cocoapods',
-  :share_schemes_for_development_pods => true
